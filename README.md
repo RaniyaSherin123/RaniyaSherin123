@@ -1,4 +1,4 @@
-[![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKoK-Fbk6yQjlEA-6Iue7rHVEF8O-EYt3lIQ&s)]
+[![MasterHead](https://gifdb.com/images/high/code-running-typing-hacking-cxndn71tvntslswj.gif)]
 
 <h1 align="center">Hi 👋, I'm Raniya Sherin M</h1>
 
