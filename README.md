@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io) 
+[![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKoK-Fbk6yQjlEA-6Iue7rHVEF8O-EYt3lIQ&s)]
 
 <h1 align="center">Hi 👋, I'm Raniya Sherin M</h1>
 
