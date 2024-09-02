@@ -1,4 +1,4 @@
-[![MasterHead](https://gifdb.com/images/high/code-running-typing-hacking-cxndn71tvntslswj.gif)]
+[![MasterHead]]
 
 <h1 align="center">Hi 👋, I'm Raniya Sherin M</h1>
 
