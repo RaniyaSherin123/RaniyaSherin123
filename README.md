@@ -2,18 +2,16 @@
 
 <h1 align="center">Hi 👋, I'm Raniya Sherin M</h1>
 
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate QA professional from India</h3>
 <img align="right" alt="coding" width="400" src="https://i.gifer.com/origin/cf/cf95f54d66e86b735a6a549deb92c993_w200.gif">
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Web designing project**
+- 🔭 I’m currently working on **Web testing project**
 
-- 🌱 I’m currently learning **HTML,CSS,JavaScript and Python**
+- 🌱 I’m currently learning **HTML,CSS,JavaScript,Python and Playwright**
 
-- 💬 Ask me about **HTML,CSS,C**
-
-- 📫 How to reach me **sherinraniya0704@gmail.com**
+- 📫 How to reach me **sraniyasherinmachingal@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
